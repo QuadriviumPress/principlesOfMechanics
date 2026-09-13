@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Principles of Mechanics</title>
+  <desc id="desc">A light lever with unequal masses on a triangular fulcrum, on a deep navy background.</desc>
+  <rect width="512" height="512" rx="96" fill="#0f2744"/>
+  <polygon points="256,300 196,400 316,400" fill="#8dabc4"/>
+  <rect x="90" y="268" width="332" height="28" rx="10" fill="#5aa9e6" transform="rotate(-8 256 282)"/>
+  <circle cx="120" cy="248" r="34" fill="#e8706b"/>
+  <circle cx="400" cy="288" r="22" fill="#dcecff"/>
+</svg>
