@@ -59,8 +59,7 @@ priority:
 ## Output Directory Convention
 
 All scratch work goes under `work/` (git-ignored). The MyST edition is the
-repository's primary deliverable and lives at the repository root. The legacy
-LaTeX rendition and its images live under `latex/`:
+repository's primary deliverable and lives at the repository root:
 
 ```
 ./
@@ -73,13 +72,10 @@ LaTeX rendition and its images live under `latex/`:
 │   └── ch-10-oscillatory-motion.md
 └── images/
     └── ch-01/…ch-10/      ← figure PNGs copied from EPUB extract
-latex/
-├── principlesOfMechanics.tex
-└── images/                 ← legacy PDF-extraction images
 work/                      ← git-ignored scratch
 ├── epub/                  ← extract_epub.py output (manifest + sidecars)
 ├── pages/                 ← PDF page renders (page_001.png …)
-└── tex/                   ← split_latex.py output (slices + slices.json)
+└── tex/                   ← optional split_latex.py output (slices + slices.json)
 outline.json               ← book plan (BookPlan schema, Phase 2)
 ```
 
@@ -100,7 +96,8 @@ Install anything missing (see Environment). Create `work/` dirs.
 ```bash
 python3 {SKILL_DIR}/scripts/extract_epub.py tmp/PrinciplesOfMechanics.epub --out work/epub
 python3 {SKILL_DIR}/scripts/pdf_to_images.py tmp/PrinciplesOfMechanics.pdf --dpi 120 --out work/pages
-python3 {SKILL_DIR}/scripts/split_latex.py latex/principlesOfMechanics.tex --out work/tex
+# Optional, if a local LaTeX extract is available outside the repo:
+# python3 {SKILL_DIR}/scripts/split_latex.py /path/to/principlesOfMechanics.tex --out work/tex
 ```
 
 Outputs:

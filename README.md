@@ -52,14 +52,6 @@ Generated output is written to `_build/` and is not committed. CI runs on
 pull requests (`.github/workflows/ci.yml`); pushes to `main` deploy via
 [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml).
 
-## Legacy LaTeX edition
-
-The earlier PDF-derived LaTeX conversion remains available under
-[`latex/`](latex/). It is retained as a historical and cross-checking source,
-but it is not the canonical edition and may contain extraction or OCR errors.
-The EPUB XHTML and equation metadata were treated as authoritative during the
-MyST conversion.
-
 ## Conversion materials
 
 `outline.json` records the source mapping and expected content counts. Local
