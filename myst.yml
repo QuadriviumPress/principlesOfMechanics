@@ -24,7 +24,7 @@ project:
   license: CC-BY-4.0
   open_access: true
   bibliography: references.bib
-  github: QuadriviumPress/PrinciplesOfMechanics
+  github: QuadriviumPress/principlesOfMechanics
   toc:
     - file: index.md
     - file: chapters/ch-01-units-and-vectors.md
@@ -46,4 +46,4 @@ site:
       url: https://link.springer.com/book/10.1007/978-3-030-15195-9
   nav:
     - title: Sources & Attribution
-      url: https://github.com/QuadriviumPress/PrinciplesOfMechanics/blob/main/SOURCES.md
+      url: https://github.com/QuadriviumPress/principlesOfMechanics/blob/main/SOURCES.md
