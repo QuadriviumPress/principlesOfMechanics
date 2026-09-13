@@ -3,6 +3,16 @@ project:
   title: Principles of Mechanics
   subtitle: Fundamental University Physics
   short_title: Principles of Mechanics
+  description: >-
+    An accessible MyST edition of Salma Alrasheed's open textbook covering
+    foundational university mechanics from vectors and kinematics through
+    central-force motion and oscillations.
+  keywords:
+    - classical mechanics
+    - university physics
+    - kinematics
+    - dynamics
+    - open textbook
   authors:
     - name: Salma Alrasheed
       affiliations:
@@ -34,4 +44,6 @@ site:
   actions:
     - title: Springer Open Access Book
       url: https://link.springer.com/book/10.1007/978-3-030-15195-9
-  nav: []
+  nav:
+    - title: Sources & Attribution
+      url: https://github.com/QuadriviumPress/PrinciplesOfMechanics/blob/main/SOURCES.md

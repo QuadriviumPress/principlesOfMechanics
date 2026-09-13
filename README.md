@@ -43,7 +43,9 @@ The main entry points are:
 ```bash
 npm install
 npm run start          # preview
+npm run verify         # structural and conversion checks
 npm run build          # static site in _build/html/
+npm run check          # verify and build
 ```
 
 Generated output is written to `_build/` and is not committed. CI runs on
