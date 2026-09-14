@@ -71,12 +71,14 @@ where $A=\sqrt{A_{1}^{2}+A_{2}^{2}}$ is called the amplitude of motion and $\phi
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig1_HTML.png
 :name: fig-10-1
+:alt: A block of mass m attached to a light spring of spring constant k that is fixed at the other end
 
 A block of mass *m* attached to a light spring of spring constant *k* that is fixed at the other end
 ```
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig2_HTML.png
 :name: fig-10-2
+:alt: Plot of x versus t for a simple harmonic oscillator
 
 Plot of *x* versus *t* for a simple harmonic oscillator
 ```
@@ -111,6 +113,7 @@ The phase constant $\phi$ is important when comparing two or more oscillations o
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig3_HTML.png
 :name: fig-10-3
+:alt: a Two simple harmonic motions of the same frequency and same phase constant pi =0 but differing in amplitude. b Two simple harmonic motions of the same frequency and amplitude but differing in phase by phi = plus or minus pi
 
 **a** Two simple harmonic motions of the same frequency and same phase constant $\pi =0$ but differing in amplitude. **b** Two simple harmonic motions of the same frequency and amplitude but differing in phase by $\phi =\pm \pi$
 ```
@@ -154,6 +157,7 @@ Hence, the velocity and acceleration also vary harmonically with time with ampli
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig4_HTML.png
 :name: fig-10-4
+:alt: The displacement, velocity and acceleration versus time
 
 The displacement, velocity and acceleration versus time
 ```
@@ -377,6 +381,7 @@ T=\frac{2\pi }{\omega _{n}}=\frac{2(3.14)}{(1.24\times 10^{-3} \; \mathrm {r}\ma
 ````
 ```{figure} ../images/ch-10/459974_1_En_10_Fig5_HTML.png
 :name: fig-10-5
+:alt: A particle of mass m is dropped in a straight tunnel that is drilled through the earth and which passes through the center of earth
 
 A particle of mass *m* is dropped in a straight tunnel that is drilled through the earth and which passes through the center of earth
 ```
@@ -407,12 +412,14 @@ T=2\pi \sqrt{\frac{m}{k_{1}+k_{2}}}=2(3.14)\sqrt{\frac{(0.4 \; \mathrm {k}\mathr
 ````
 ```{figure} ../images/ch-10/459974_1_En_10_Fig6_HTML.png
 :name: fig-10-6
+:alt: A block connected to two springs
 
 A block connected to two springs
 ```
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig7_HTML.png
 :name: fig-10-7
+:alt: A second block on top of a block connected to a spring
 
 A second block on top of a block connected to a spring
 ```
@@ -443,6 +450,7 @@ A=\frac{\mu _{s}g}{\omega _{n}^{2}}=\frac{\mu _{s}g(m+M)}{k}=\frac{(0.4)(9.8 \; 
 ````
 ```{figure} ../images/ch-10/459974_1_En_10_Fig8_HTML.png
 :name: fig-10-8
+:alt: A particle in uniform circular motion
 
 A particle in uniform circular motion
 ```
@@ -496,12 +504,14 @@ Hence as you can see, the displacement, velocity, and acceleration of the projec
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig9_HTML.png
 :name: fig-10-9
+:alt: The velocity components of the particle
 
 The velocity components of the particle
 ```
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig10_HTML.png
 :name: fig-10-10
+:alt: The acceleration components of the particle
 
 The acceleration components of the particle
 ```
@@ -569,6 +579,7 @@ Hence, the maximum speed is at $x=0$ and is zero at $x=\pm A$ which are called t
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig11_HTML.png
 :name: fig-10-11
+:alt: As the mass moves, its kinetic energy is transformed into potential energy and vice versa
 
 As the mass moves, its kinetic energy is transformed into potential energy and vice versa
 ```
@@ -747,6 +758,7 @@ this equation is of a simple harmonic motion with
 ````
 ```{figure} ../images/ch-10/459974_1_En_10_Fig12_HTML.png
 :name: fig-10-12
+:alt: A solid cylinder connected to a light spring
 
 A solid cylinder connected to a light spring
 ```
@@ -814,12 +826,14 @@ T=\frac{2\pi }{\omega _{n}}=2\pi \sqrt{\frac{L}{g}}
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig13_HTML.png
 :name: fig-10-13
+:alt: The simple pendulum
 
 The simple pendulum
 ```
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig14_HTML.png
 :name: fig-10-14
+:alt: The displacement versus time of a simple pendulum
 
 The displacement versus time of a simple pendulum
 ```
@@ -873,6 +887,7 @@ Therefore, the total energy of the system is constant. Figure 10.15 shows the va
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig15_HTML.png
 :name: fig-10-15
+:alt: The total energy of a simple pendulum
 
 The total energy of a simple pendulum
 ```
@@ -993,6 +1008,7 @@ v=\sqrt{gL}\theta =\sqrt{(9.8 \; \mathrm {m}/\mathrm {s}^{2})(14 \; \mathrm {m})
 ````
 ```{figure} ../images/ch-10/459974_1_En_10_Fig16_HTML.png
 :name: fig-10-16
+:alt: The physical pendulum
 
 The physical pendulum
 ```
@@ -1078,12 +1094,14 @@ f_{n}=\frac{1}{2\pi }\sqrt{\frac{Mgd}{I}}=\frac{1}{2\pi }\sqrt{\frac{Mg({L}/{2})
 ````
 ```{figure} ../images/ch-10/459974_1_En_10_Fig17_HTML.png
 :name: fig-10-17
+:alt: A uniform rod suspended at one end oscillated with a small amplitude
 
 A uniform rod suspended at one end oscillated with a small amplitude
 ```
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig18_HTML.png
 :name: fig-10-18
+:alt: A uniform square plate pivoted at one of its corners and oscillates in a vertical plane
 
 A uniform square plate pivoted at one of its corners and oscillates in a vertical plane
 ```
@@ -1126,6 +1144,7 @@ T=2\pi \sqrt{\frac{I}{Mgd}}=2\pi \sqrt{\frac{(13/6){Ma^{2}}}{Mg\sqrt{2}a}}=2\pi 
 ````
 ```{figure} ../images/ch-10/459974_1_En_10_Fig19_HTML.png
 :name: fig-10-19
+:alt: The torsional pendulum
 
 The torsional pendulum
 ```
@@ -1195,6 +1214,7 @@ k=\frac{4\pi ^{2}I_{cm}}{T}=\frac{4(3.14)^{2}(4.7\times 10^{-3} \; \mathrm {k}\m
 ````
 ```{figure} ../images/ch-10/459974_1_En_10_Fig20_HTML.png
 :name: fig-10-20
+:alt: A uniform solid sphere suspended at its midpoint by a light string
 
 A uniform solid sphere suspended at its midpoint by a light string
 ```
@@ -1212,6 +1232,7 @@ where *b* is a positive constant called the damping coefficient. Its SI units is
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig21_HTML.png
 :name: fig-10-21
+:alt: A mass-spring system with damping
 
 A mass-spring system with damping
 ```
@@ -1339,6 +1360,7 @@ A quantity known as the logarithmic decrement is defined as
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig22_HTML.png
 :name: fig-10-22
+:alt: In A lightly damped oscillator, the system oscillates in a decreasing harmonic motion where the amplitude of motion decreases exponentially with time until eventually the oscillation dies out
 
 In A lightly damped oscillator, the system oscillates in a decreasing harmonic motion where the amplitude of motion decreases exponentially with time until eventually the oscillation dies out
 ```
@@ -1462,6 +1484,7 @@ x=A(1+\omega _{n}t)e^{-\omega _{n}t}
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig23_HTML.png
 :name: fig-10-23
+:alt: In a critically damped motion, the motion decays without oscillation
 
 In a critically damped motion, the motion decays without oscillation
 ```
@@ -1503,6 +1526,7 @@ $C_{1}$ and $C_{2}$ are found from boundary conditions. As critical damping, the
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig24_HTML.png
 :name: fig-10-24
+:alt: As critical damping, the resulting motion here is non-periodic but the system returns to its equilibrium position at large values of t unlike critical damping
 
 As critical damping, the resulting motion here is non-periodic but the system returns to its equilibrium position at large values of *t* unlike critical damping
 ```
@@ -1673,6 +1697,7 @@ When the deriving frequency $\omega$ approaches the natural frequency of the sys
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig25_HTML.png
 :name: fig-10-25
+:alt: When the deriving frequency omega approaches the natural frequency of the system omega D, the amplitude of the resulting forced oscillation will increase. This is known as resonance. If the damping is very light the amplitude reaches its peak when the deriving frequency is nearly equal to the nat...
 
 When the deriving frequency $\omega$ approaches the natural frequency of the system $\omega _{D}$, the amplitude of the resulting forced oscillation will increase. This is known as resonance. If the damping is very light the amplitude reaches its peak when the deriving frequency is nearly equal to the natural frequency $\omega _{n}$. As the damping becomes heavier, the maximum amplitude shifts to lower frequencies
 ```
@@ -1809,18 +1834,21 @@ For the system shown in [](#fig-10-28), find the steady-state displacement as a 
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig26_HTML.png
 :name: fig-10-26
+:alt: A uniform solid cylinder of radius R and mass M rolls without slipping on a track of radius 4R
 
 A uniform solid cylinder of radius *R* and mass *M* rolls without slipping on a track of radius 4*R*
 ```
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig27_HTML.png
 :name: fig-10-27
+:alt: A damped oscillator
 
 A damped oscillator
 ```
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig28_HTML.png
 :name: fig-10-28
+:alt: A forced oscillator
 
 A forced oscillator
 ```

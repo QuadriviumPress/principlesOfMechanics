@@ -268,6 +268,7 @@ doi: 10.1007/978-3-030-15195-9_{N}
 
   ```{figure} ../images/ch-{NN}/{file}
   :name: fig-{N}-{M}
+  :alt: {caption text verbatim from the sidecar, minus the "Fig. N.M" prefix}
 
   {caption text verbatim from the sidecar, minus the "Fig. N.M" prefix}
   ```

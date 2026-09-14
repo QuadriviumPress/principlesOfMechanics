@@ -46,16 +46,19 @@ $\triangle \theta$ is positive for counterclockwise rotations (increasing $\thet
 The instantaneous angular velocity is
 ```{figure} ../images/ch-07/459974_1_En_7_Fig1_HTML.png
 :name: fig-7-1
+:alt: A rigid body of an arbitrary shape is in pure rotational motion about the z -axis
 
 A rigid body of an arbitrary shape is in pure rotational motion about the $\mathrm {z}$-axis
 ```
 ```{figure} ../images/ch-07/459974_1_En_7_Fig2_HTML.png
 :name: fig-7-2
+:alt: The motion of a particle that lies in a slice of the body in the x-y plane
 
 The motion of a particle that lies in a slice of the body in the x-y plane
 ```
 ```{figure} ../images/ch-07/459974_1_En_7_Fig3_HTML.png
 :name: fig-7-3
+:alt: The particle is at point P1 at t1 and at P2 at t2, where it changes its angular position from theta 1 to theta 2
 
 The particle is at point $P_{1}$ at $t_{1}$ and at $P_{2}$ at $t_{2}$, where it changes its angular position from $\theta _{1}$ to $\theta _{2}$
 ```
@@ -74,11 +77,13 @@ where $\alpha$ is in $\mathrm {r}\mathrm {a}\mathrm {d}/\mathrm {s}^{2}$ or $\ma
 The quantities $\theta , \omega$ and $\alpha$ in pure rotational motion are the rotational analog of *x*, *v* and *a* in translational one-dimensional motion. The vectors $\omega$ and $\alpha$ are not used in the case of pure rotational motion, they are used in the general rotational motion when the axis of rotation changes its direction with time. Note that only the infinitesimal angular displacement $d\theta$ can be represented by a vector but not the finite angular displacement $\triangle \theta$. This is because the finite angular displacement $\triangle \theta$ does not obey the commutative law of vector addition (see Fig. [](#fig-7-5)) and therefore cannot be represented by a vector. Hence, the instantaneous angular velocity and acceleration ($\omega$ and $\alpha$) can be represented by vectors but not their average values ($\overline{\omega }$ and $\overline{\alpha }$).
 ```{figure} ../images/ch-07/459974_1_En_7_Fig4_HTML.png
 :name: fig-7-4
+:alt: The direction of omega is along the axis of rotation and can be determined by the right-hand rule or of advance of a right-handed screw
 
 The direction of $\omega$ is along the axis of rotation and can be determined by the right-hand rule or of advance of a right-handed screw
 ```
 ```{figure} ../images/ch-07/459974_1_En_7_Fig5_HTML.png
 :name: fig-7-5
+:alt: Changing the order of addition will change the final result
 
 Changing the order of addition will change the final result
 ```
@@ -301,11 +306,13 @@ a=\sqrt{{a_t}^2+{a_r}^2}=\sqrt{{r}^2{\alpha }^2+{r}^2{\omega }^4}=r\sqrt{{\alpha
 Table. 7.1 shows the linear/rotational analogous equations.
 ```{figure} ../images/ch-07/459974_1_En_7_Fig6_HTML.png
 :name: fig-7-6
+:alt: As the rigid body rotates, a particle in the body will move through a distance s along its circular path
 
 As the rigid body rotates, a particle in the body will move through a distance *s* along its circular path
 ```
 ```{figure} ../images/ch-07/459974_1_En_7_Fig7_HTML.png
 :name: fig-7-7
+:alt: The total acceleration of the particle
 
 The total acceleration of the particle
 ```
@@ -386,6 +393,7 @@ hence
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig8_HTML.png
 :name: fig-7-8
+:alt: Two sprockets connected at the rim
 
 Two sprockets connected at the rim
 ```
@@ -453,6 +461,7 @@ The direction of $\boldsymbol{\omega }\times \mathbf {v}$ is along the direction
 Equations 7.7–7.9 are the vector relationship between angular and linear quantities.
 ```{figure} ../images/ch-07/459974_1_En_7_Fig9_HTML.png
 :name: fig-7-9
+:alt: A rigid body in pure rotational motion about a fixed axis (here the z -axis)
 
 A rigid body in pure rotational motion about a fixed axis (here the $\mathrm {z}$-axis)
 ```
@@ -483,6 +492,7 @@ I=\lim _{\triangle m_{\mathrm {i}\rightarrow 0}}\sum _{i}m_{i}r_{i}^{2}=\int r^{
 In solving problems $\rho , \sigma$, and $\lambda$ (see Sect. 6.3.4) are often used to express *dm* in terms of its position coordinates.
 ```{figure} ../images/ch-07/459974_1_En_7_Fig10_HTML.png
 :name: fig-7-10
+:alt: A system of particles rotating about the z-axis
 
 A system of particles rotating about the z-axis
 ```
@@ -497,6 +507,7 @@ I=I_{cm}+MD^{2}
 where $I_{cm}$ is the moment of inertia about an axis passing through the center of mass, *M* is the total mass of the system, and *D* is the perpendicular distance between the two parallel axes.
 ```{figure} ../images/ch-07/459974_1_En_7_Fig11_HTML.png
 :name: fig-7-11
+:alt: The Parallel-axis Theorem
 
 The Parallel-axis Theorem
 ```
@@ -542,6 +553,7 @@ I_{P}=I_{cm}+MD^{2} \quad \text {(Parallel--Axis Theorem)}
 **Special Moment of Inertia** Fig. [](#fig-7-12) gives the rotational inertia of various rigid bodies of uniform density.
 ```{figure} ../images/ch-07/459974_1_En_7_Fig12_HTML.png
 :name: fig-7-12
+:alt: The rotational inertia of various rigid bodies of uniform density
 
 The rotational inertia of various rigid bodies of uniform density
 ```
@@ -555,6 +567,7 @@ Consider a rigid body rotating about a fixed axis (the $\mathrm {z}$-axis) with 
 ```
 ```{figure} ../images/ch-07/459974_1_En_7_Fig13_HTML.png
 :name: fig-7-13
+:alt: A rigid body rotating about a fixed axis (the z -axis) with an angular speed omega
 
 A rigid body rotating about a fixed axis (the $\mathrm {z}$-axis) with an angular speed $\omega$
 ```
@@ -599,6 +612,7 @@ However, if the object is symmetric and homogeneous in pure rotation about its s
 ```
 ```{figure} ../images/ch-07/459974_1_En_7_Fig14_HTML.png
 :name: fig-7-14
+:alt: A homogenous symmetrical rigid body rotating about its symmetrical axis
 
 A homogenous symmetrical rigid body rotating about its symmetrical axis
 ```
@@ -634,6 +648,7 @@ The external torque is
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig15_HTML.png
 :name: fig-7-15
+:alt: Three masses connected by massless rods
 
 Three masses connected by massless rods
 ```
@@ -714,6 +729,7 @@ I_{y''}=I_{cm}+MD^{2}=\frac{1}{12}ML^{2}+M\bigg (\frac{L}{2}-\frac{L}{6}\bigg )^
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig16_HTML.png
 :name: fig-7-16
+:alt: A uniform thin rod of mass M and length L
 
 A uniform thin rod of mass *M* and length *L*
 ```
@@ -745,6 +761,7 @@ I_{cm}=\int r^{2}dm=\int r^{2}\sigma dA=\int _{y=-a/2}^{a/2}\int _{y=-b/2}^{b/2}
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig17_HTML.png
 :name: fig-7-17
+:alt: A uniform thin plate of mass M and surface density sigma
 
 A uniform thin plate of mass *M* and surface density $\sigma$
 ```
@@ -763,6 +780,7 @@ Find the moment of inertia of a uniform solid cylinder of radius *R*, length *L*
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig18_HTML.png
 :name: fig-7-18
+:alt: Calculating the moment of inertia of a uniform solid cylinder with the volume element defined in different ways
 
 Calculating the moment of inertia of a uniform solid cylinder with the volume element defined in different ways
 ```
@@ -786,6 +804,7 @@ I=I_{1}+I_{2}+I_{3}=3\bigg (\frac{1}{3}ML^{2}\bigg )=ML^{2}
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig19_HTML.png
 :name: fig-7-19
+:alt: Three rods of length L and mass M are connected together
 
 Three rods of length *L* and mass *M* are connected together
 ```
@@ -823,6 +842,7 @@ I=\frac{M}{2}R^{2}\int _{\theta =0}^{\pi }\sin ^{3}\theta d\theta =\frac{M}{2}R^
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig20_HTML.png
 :name: fig-7-20
+:alt: A spherical shell divided into thin rings
 
 A spherical shell divided into thin rings
 ```
@@ -868,6 +888,7 @@ W=\tau (\theta _{2}-\theta _{1})=\tau \triangle \theta
 ```
 ```{figure} ../images/ch-07/459974_1_En_7_Fig21_HTML.png
 :name: fig-7-21
+:alt: A rigid body rotating about a fixed axis
 
 A rigid body rotating about a fixed axis
 ```
@@ -948,6 +969,7 @@ Consider a light rope wrapped around a uniform cylindrical shell of mass 30 kg a
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig22_HTML.png
 :name: fig-7-22
+:alt: A light rope wrapped around a uniform cylindrical shell
 
 A light rope wrapped around a uniform cylindrical shell
 ```
@@ -966,17 +988,20 @@ A uniform rod of mass $M=0.75$ kg and length $L=1\mathrm {m}$ is hinged at one e
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig23_HTML.png
 :name: fig-7-23
+:alt: A uniform rod free to rotate at one end
 
 A uniform rod free to rotate at one end
 ```
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig24_HTML.png
 :name: fig-7-24
+:alt: A cylinder with a core section is free to rotate about its center. Ropes wrapped around the inner and outer sections exert different forces
 
 A cylinder with a core section is free to rotate about its center. Ropes wrapped around the inner and outer sections exert different forces
 ```
 ```{figure} ../images/ch-07/459974_1_En_7_Fig25_HTML.png
 :name: fig-7-25
+:alt: A block of mass m is attached to a light string that is wrapped around the rim of a uniform solid disk of radius R and mass M
 
 A block of mass *m* is attached to a light string that is wrapped around the rim of a uniform solid disk of radius *R* and mass *M*
 ```
@@ -1136,6 +1161,7 @@ Fig. [](#fig-7-26) shows Atwood’s machine when the mass of the pulley is consi
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig26_HTML.png
 :name: fig-7-26
+:alt: Atwood’s machine
 
 Atwood’s machine
 ```
@@ -1226,6 +1252,7 @@ L=I\omega =(0.016 \; \mathrm {k}\mathrm {g}\,\mathrm {m}^{2})((2t^{2}) \; \mathr
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig27_HTML.png
 :name: fig-7-27
+:alt: A uniform solid sphere rotating about an axis tangent to the sphere
 
 A uniform solid sphere rotating about an axis tangent to the sphere
 ```
@@ -1300,6 +1327,7 @@ A man stands on a platform that is free to rotate without friction about a verti
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig28_HTML.png
 :name: fig-7-28
+:alt: A man stands on a platform that is free to rotate without friction about a vertical axis
 
 A man stands on a platform that is free to rotate without friction about a vertical axis
 ```
@@ -1318,6 +1346,7 @@ A uniform disc of moment of inertia of 0.1 kg m$^{2}$ is rotating without fricti
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig29_HTML.png
 :name: fig-7-29
+:alt: A uniform disc rotating without friction. Another disc that is initially at rest is dropped on the first, the two will eventually rotate with the same angular speed due to friction between them
 
 A uniform disc rotating without friction. Another disc that is initially at rest is dropped on the first, the two will eventually rotate with the same angular speed due to friction between them
 ```
@@ -1417,24 +1446,28 @@ A disc of radius 2.2 $\mathrm {m}$ and mass of 120 kg rotate about a frictionles
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig30_HTML.png
 :name: fig-7-30
+:alt: An L-shaped bar rotating counterclockwise
 
 An L-shaped bar rotating counterclockwise
 ```
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig31_HTML.png
 :name: fig-7-31
+:alt: Four masses connected by light rigid rods
 
 Four masses connected by light rigid rods
 ```
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig32_HTML.png
 :name: fig-7-32
+:alt: An elliptical quadrant
 
 An elliptical quadrant
 ```
 
 ```{figure} ../images/ch-07/459974_1_En_7_Fig33_HTML.png
 :name: fig-7-33
+:alt: A uniform rod of length L and mass M is pivoted at O. A projectile of mass m moving at velocity v collides with the rod and sticks to it
 
 A uniform rod of length L and mass M is pivoted at $\mathrm {O}$. A projectile of mass m moving at velocity v collides with the rod and sticks to it
 ```

@@ -137,6 +137,7 @@ Each term in the equation has the same dimension and therefore it is dimensional
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig1_HTML.png
 :name: fig-1-1
+:alt: A vector is represented geometrically by an arrow PQ drawn to scale
 
 A vector is represented geometrically by an arrow PQ drawn to scale
 ```
@@ -161,6 +162,7 @@ The two vectors $\mathbf{A}$ and $\mathbf{B}$ are said to be equal $(\mathbf{A}=
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig2_HTML.png
 :name: fig-1-2
+:alt: The two vectors A and B are said to be equal ( A = B ) only if they have the same magnitude and direction
 
 The two vectors $\mathbf{A}$ and $\mathbf{B}$ are said to be equal ($\mathbf{A}$ = $\mathbf{B}$) only if they have the same magnitude and direction
 ```
@@ -188,30 +190,35 @@ C^{2}=(A+B\cos \theta )^{2}+(B\sin \theta )^{2}=A^{2}+B^{2}+2AB\cos \theta ,
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig3_HTML.png
 :name: fig-1-3
+:alt: To add two vectors A and B using the geometric method, place the head of A at the tail of B and draw a vector from the tail of A to the head of B
 
 To add two vectors $\mathbf{A}$ and $\mathbf{B}$ using the geometric method, place the head of $\mathbf{A}$ at the tail of $\mathbf{B}$ and draw a vector from the tail of $\mathbf{A}$ to the head of $\mathbf{B}$
 ```
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig4_HTML.png
 :name: fig-1-4
+:alt: Geometric method for summing more than two vectors
 
 Geometric method for summing more than two vectors
 ```
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig5_HTML.png
 :name: fig-1-5
+:alt: The parallelogram method of adding two vectors
 
 The parallelogram method of adding two vectors
 ```
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig6_HTML.png
 :name: fig-1-6
+:alt: Finding the magnitude and the direction of C
 
 Finding the magnitude and the direction of $\mathbf{C}$
 ```
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig7_HTML.png
 :name: fig-1-7
+:alt: The total displacement of the jogger is the vector R
 
 The total displacement of the jogger is the vector $\mathbf{R}$
 ```
@@ -262,6 +269,7 @@ The negative vector of $\mathbf{A}$ is a vector of the same magnitude of $\mathb
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig8_HTML.png
 :name: fig-1-8
+:alt: The negative vector of A is a vector of the same magnitude of A but in the opposite direction
 
 The negative vector of $\mathbf{A}$ is a vector of the same magnitude of $\mathbf{A}$ but in the opposite direction
 ```
@@ -276,6 +284,7 @@ The vector $\mathbf{A}-\mathbf{B}$ is defined as the vector that when added to $
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig9_HTML.png
 :name: fig-1-9
+:alt: Subtraction of two vectors
 
 Subtraction of two vectors
 ```
@@ -286,18 +295,21 @@ The product of a vector $\mathbf{A}$ by a scalar *q* is a vector $q\mathbf{A}$ o
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig10_HTML.png
 :name: fig-1-10
+:alt: The product of a vector by a scalar
 
 The product of a vector by a scalar
 ```
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig11_HTML.png
 :name: fig-1-11
+:alt: Commutative law of addition
 
 Commutative law of addition
 ```
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig12_HTML.png
 :name: fig-1-12
+:alt: Associative law of addition
 
 Associative law of addition
 ```
@@ -323,6 +335,7 @@ The scalar product is a scalar quantity defined as $\mathbf{A}\cdot \mathbf{B}=A
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig13_HTML.png
 :name: fig-1-13
+:alt: The scalar product of two vectors
 
 The scalar product of two vectors
 ```
@@ -339,6 +352,7 @@ The vector product is a vector quantity defined as $\mathbf{C}=\mathbf{A}\times 
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig14_HTML.png
 :name: fig-1-14
+:alt: The vector product of two vectors
 
 The vector product of two vectors
 ```
@@ -354,6 +368,7 @@ The vector product of two vectors
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig15_HTML.png
 :name: fig-1-15
+:alt: The magnitude of the vector product magnitude of A times B is the area of a parallelogram with sides A and B
 
 The magnitude of the vector product $|\mathbf{A}\times \mathbf{B}|$ is the area of a parallelogram with sides $A$ and $B$
 ```
@@ -383,30 +398,35 @@ In three dimensions, the cartesian coordinate system is shown in [](#fig-1-18). 
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig16_HTML.png
 :name: fig-1-16
+:alt: The rectangular (cartesian) coordinate system
 
 The rectangular (cartesian) coordinate system
 ```
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig17_HTML.png
 :name: fig-1-17
+:alt: The polar coordinate system
 
 The polar coordinate system
 ```
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig18_HTML.png
 :name: fig-1-18
+:alt: The cartesian coordinate system in three dimensions
 
 The cartesian coordinate system in three dimensions
 ```
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig19_HTML.png
 :name: fig-1-19
+:alt: The spherical coordinate system
 
 The spherical coordinate system
 ```
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig20_HTML.png
 :name: fig-1-20
+:alt: The cylindrical coordinate system
 
 The cylindrical coordinate system
 ```
@@ -418,6 +438,7 @@ In two dimensions, the vector $\mathbf{A}$ can be expressed as the sum of two ot
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig21_HTML.png
 :name: fig-1-21
+:alt: In two dimensions, the vector A can be expressed as the sum of two other vectors A=Ax+Ay, where Ax=A theta and Ay=A theta
 
 In two dimensions, the vector $\mathbf{A}$ can be expressed as the sum of two other vectors $\mathbf{A}=\mathbf{A}_{x}+\mathbf{A}_{y}$, where $A_{x}=A\cos \theta$ and $A_{y}=A\sin \theta$
 ```
@@ -446,6 +467,7 @@ with directions given by
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig22_HTML.png
 :name: fig-1-22
+:alt: In three dimensions the magnitude of A is A={Ax to the 2 +Ay to the 2 +Az to the 2 }
 
 In three dimensions the magnitude of A is $A=\sqrt{A_{x}^{2}+A_{y}^{2}+A_{z}^{2}}$
 ```
@@ -460,6 +482,7 @@ The rectangular unit vectors $\mathbf{i}, \mathbf{j}$, and $\mathbf{k}$ are unit
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig23_HTML.png
 :name: fig-1-23
+:alt: The rectangular unit vectors i, j and k are unit vectors defined to be in the direction of the positive x, y, and z axes respectively
 
 The rectangular unit vectors $\mathbf{i}, \mathbf{j}$ and $\mathbf{k}$ are unit vectors defined to be in the direction of the positive $\mathrm{x}, \mathrm{y}$, and $\mathrm{z}$ axes respectively
 ```
@@ -524,6 +547,7 @@ A truck travels northwest a distance of 30 km, and then 50 km at $30^{\circ}$ no
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig24_HTML.png
 :name: fig-1-24
+:alt: The displacements are drawn to scale with the head of A placed at the tail of B and the head of B placed at the tail of C.The resultant vector R is the vector that extends from the tail of A to the head of C
 
 The displacements are drawn to scale with the head of $\mathbf{A}$ placed at the tail of $\mathbf{B}$ and the head of $\mathbf{B}$ placed at the tail of $\mathbf{C}$.The resultant vector $\mathbf{R}$ is the vector that extends from the tail of $\mathbf{A}$ to the head of $\mathbf{C}$
 ```
@@ -662,6 +686,7 @@ or
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig25_HTML.png
 :name: fig-1-25
+:alt: If we write the unit vectors around a circle, then reading counter clockwise gives the positive products and reading clockwise gives the negative products
 
 If we write the unit vectors around a circle, then reading counter clockwise gives the positive products and reading clockwise gives the negative products
 ```
@@ -872,6 +897,7 @@ The triple scalar product is a scalar quantity defined as $\mathbf{A}\cdot (\mat
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig26_HTML.png
 :name: fig-1-26
+:alt: The triple scalar product is equal to the volume of a parallepiped with sides A, B, and C
 
 The triple scalar product is equal to the volume of a parallepiped with sides $\mathbf{A}, \mathbf{B}$, and $\mathbf{C}$
 ```
@@ -1124,6 +1150,7 @@ Note that $\mathbf{A} \cdot \mathbf{r}$ is the tangential component of $\mathbf{
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig27_HTML.png
 :name: fig-1-27
+:alt: The line integral
 
 The line integral
 ```
@@ -1256,6 +1283,7 @@ By using the polar coordinates, we have $x=\cos \theta$ and $y=\sin \theta$ (sin
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig28_HTML.png
 :name: fig-1-28
+:alt: The line integral along the curve using polar coordinates
 
 The line integral along the curve using polar coordinates
 ```
@@ -1369,6 +1397,7 @@ A force field is given by $\mathbf{F}=-kx\mathbf{i}-ky\mathbf{j}$, find (a) $\na
 
 ```{figure} ../images/ch-01/459974_1_En_1_Fig29_HTML.png
 :name: fig-1-29
+:alt: Vectors A, B, C and D
 
 Vectors $\mathbf{A}, \mathbf{B}, \mathbf{C}$ and $\mathbf{D}$
 ```

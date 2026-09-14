@@ -70,12 +70,14 @@ z_{cm}=\frac{m_{1}z_{1}+m_{2}z_{2}}{m_{1}+m_{2}}
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig1_HTML.png
 :name: fig-6-1
+:alt: Two particles of masses m1 and m2 moving in space. Their position vectors at a particular instant of time are given by r1 and r2
 
 Two particles of masses $m_{1}$ and $m_{2}$ moving in space. Their position vectors at a particular instant of time are given by $\mathbf {r}_{1}$ and $\mathbf {r}_{2}$
 ```
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig2_HTML.png
 :name: fig-6-2
+:alt: A discrete system of particles consisting of n particles
 
 A discrete system of particles consisting of *n* particles
 ```
@@ -137,6 +139,7 @@ y_{cm}=\frac{0+0+(1\,\mathrm {k}\mathrm {g})(0.2\,\mathrm {m})\tan (60^{\mathrm 
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig3_HTML.png
 :name: fig-6-3
+:alt: The center of mass of a system in the x-y plane
 
 The center of mass of a system in the x-y plane
 ```
@@ -214,6 +217,7 @@ z_{cm}=\frac{1}{M}\int zdm
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig4_HTML.png
 :name: fig-6-4
+:alt: An extended object of mass M divided into small volume elements each of mass mi and a vector position rI
 
 An extended object of mass *M* divided into small volume elements each of mass $\triangle m_{i}$ and a vector position $\mathrm {r}_{I}$
 ```
@@ -291,12 +295,14 @@ Substituting $L=2\,\mathrm {m}$ gives $x_{cm}=1.7\,\mathrm {m}.$
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig5_HTML.png
 :name: fig-6-5
+:alt: A thin rod of length L=2 \; m has a linear density that increases with x
 
 A thin rod of length $L=2 \; \mathrm {m}$ has a linear density that increases with *x*
 ```
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig6_HTML.png
 :name: fig-6-6
+:alt: A uniform square sheet suspended by a uniform rod where they both lie in the same plane
 
 A uniform square sheet suspended by a uniform rod where they both lie in the same plane
 ```
@@ -366,6 +372,7 @@ and
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig7_HTML.png
 :name: fig-6-7
+:alt: The center of mass of a rectangular plate
 
 The center of mass of a rectangular plate
 ```
@@ -425,6 +432,7 @@ y_{cm}=\displaystyle \frac{1}{M}\int ydm=\frac{1}{M}\int y\sigma dA=\frac{2}{\pi
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig8_HTML.png
 :name: fig-6-8
+:alt: The center of mass of half an ellipse
 
 The center of mass of half an ellipse
 ```
@@ -452,6 +460,7 @@ z_{cm}=\displaystyle \frac{\int zdm}{M}=\frac{\int z\sigma dA}{M}=\frac{1}{M}\in
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig9_HTML.png
 :name: fig-6-9
+:alt: The center of mass of a cylindrical shell
 
 The center of mass of a cylindrical shell
 ```
@@ -464,6 +473,7 @@ A boy standing on a smooth ice surface wants to fetch a container that is at a d
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig10_HTML.png
 :name: fig-6-10
+:alt: A boy pulling a container on a smooth surface
 
 A boy pulling a container on a smooth surface
 ```
@@ -495,6 +505,7 @@ A boy is standing at the rear of a boat as shown in Fig. [](#fig-6-11). The mass
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig11_HTML.png
 :name: fig-6-11
+:alt: A boy walking on a small boat
 
 A boy walking on a small boat
 ```
@@ -965,6 +976,7 @@ The motion of a system of particles is sometimes described relative to the cente
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig12_HTML.png
 :name: fig-6-12
+:alt: The position vector ( ri') of the ith particle relative to the center of mass
 
 The position vector $(\mathbf {r}_{i}')$ of the ith particle relative to the center of mass
 ```
@@ -1235,6 +1247,7 @@ L=mvd+mvd=2mvd
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig13_HTML.png
 :name: fig-6-13
+:alt: Two particles rotating about their center of mass
 
 Two particles rotating about their center of mass
 ```
@@ -1267,18 +1280,21 @@ That is, when viewed from the center of mass frame the two objects approach each
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig14_HTML.png
 :name: fig-6-14
+:alt: Consider a system consisting of two bodies undergoing a one-dimensional collision
 
 Consider a system consisting of two bodies undergoing a one-dimensional collision
 ```
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig15_HTML.png
 :name: fig-6-15
+:alt: The center of mass frame analysis of a collision
 
 The center of mass frame analysis of a collision
 ```
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig16_HTML.png
 :name: fig-6-16
+:alt: A rocket is projected vertically upward and explodes into three fragments of equal mass when it reaches the top of its flight at an altitude of 40 m
 
 A rocket is projected vertically upward and explodes into three fragments of equal mass when it reaches the top of its flight at an altitude of 40 $\mathrm {m}$
 ```
@@ -1338,6 +1354,7 @@ Find the center of mass of the Earth–Moon System and describe its motion aroun
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig17_HTML.png
 :name: fig-6-17
+:alt: The center of mass of the Earth-Moon system
 
 The center of mass of the Earth-Moon system
 ```
@@ -1375,6 +1392,7 @@ Hence, the center of mass of the Earth–Moon system moves as a single planet of
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig18_HTML.png
 :name: fig-6-18
+:alt: The center of mass of the Earth-Moon system moves as a single planet of mass (ME+MM) about the sun
 
 The center of mass of the Earth-Moon system moves as a single planet of mass $(M_{E}+M_{M})$ about the sun
 ```
@@ -1387,6 +1405,7 @@ Describe the motion of a rocket in space using the law of conservation of moment
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig19_HTML.png
 :name: fig-6-19
+:alt: A rocket moving in space is a system with varying mass. Its motion is analyzed using the law of conservation of momentum
 
 A rocket moving in space is a system with varying mass. Its motion is analyzed using the law of conservation of momentum
 ```
@@ -1454,18 +1473,21 @@ Therefore, the final speed of the rocket depends on the exhaust speed and on the
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig20_HTML.png
 :name: fig-6-20
+:alt: A system of particles in x-y plane
 
 A system of particles in x-y plane
 ```
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig21_HTML.png
 :name: fig-6-21
+:alt: A homogenous sheet with a hole
 
 A homogenous sheet with a hole
 ```
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig22_HTML.png
 :name: fig-6-22
+:alt: A homogenous sheet in the x-y plane
 
 A homogenous sheet in the x-y plane
 ```
@@ -1551,12 +1573,14 @@ Two particles of masses $m_{1}=1 $ kg and $m_{2}=2 $ kg are moving relative to t
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig23_HTML.png
 :name: fig-6-23
+:alt: The acceleration of the center of mass of two masses acted upon by different forces
 
 The acceleration of the center of mass of two masses acted upon by different forces
 ```
 
 ```{figure} ../images/ch-06/459974_1_En_6_Fig24_HTML.png
 :name: fig-6-24
+:alt: By neglecting friction between the boat and water, the center of mass can be used to find the distance moved by the boat
 
 By neglecting friction between the boat and water, the center of mass can be used to find the distance moved by the boat
 ```

@@ -63,12 +63,14 @@ where
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig1_HTML.png
 :name: fig-4-1
+:alt: An object exposed to a constant force F and undergoes a displacement of s
 
 An object exposed to a constant force $\mathbf {F}$ and undergoes a displacement of $\mathbf {s}$
 ```
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig2_HTML.png
 :name: fig-4-2
+:alt: An object exposed to several forces undergoes a displacement of s
 
 An object exposed to several forces undergoes a displacement of $\mathbf {s}$
 ```
@@ -176,18 +178,21 @@ The work is then equal to the rectangular area shown in Fig. [](#fig-4-5).
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig3_HTML.png
 :name: fig-4-3
+:alt: A particle moving along a curved path. While itõs moving, a force F that varies in both magnitude and direction with the position of the particle acts on it
 
 A particle moving along a curved path. While itõs moving, a force $\mathbf {F}$ that varies in both magnitude and direction with the position of the particle acts on it
 ```
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig4_HTML.png
 :name: fig-4-4
+:alt: The area under the curve represents the work
 
 The area under the curve represents the work
 ```
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig5_HTML.png
 :name: fig-4-5
+:alt: The work is equal to the rectangular area
 
 The work is equal to the rectangular area
 ```
@@ -234,6 +239,7 @@ W=\frac{1}{2}(9\,\mathrm {m})(4\,\mathrm {N})=18\,\mathrm {J}
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig6_HTML.png
 :name: fig-4-6
+:alt: A force acting on a particle is a function of position
 
 A force acting on a particle is a function of position
 ```
@@ -264,12 +270,14 @@ W=mgR\int _{0}^{\theta _{0}}\sin \theta d\theta =-mgR\cos \theta |_{0}^{\theta _
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig7_HTML.png
 :name: fig-4-7
+:alt: A ball suspended by a light rope and displaced a small distance from the position of equilibrium
 
 A ball suspended by a light rope and displaced a small distance from the position of equilibrium
 ```
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig8_HTML.png
 :name: fig-4-8
+:alt: The center of mass of the system (man+skateboard) moves and the work-energy theorem can be applied to that point
 
 The center of mass of the system (man+skateboard) moves and the work-energy theorem can be applied to that point
 ```
@@ -369,6 +377,7 @@ v_{f}=7.2\,\mathrm {m}/\mathrm {s}
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig9_HTML.png
 :name: fig-4-9
+:alt: A block attached to a light spring on a frictionless surface
 
 A block attached to a light spring on a frictionless surface
 ```
@@ -402,6 +411,7 @@ Figure [](#fig-4-10) shows a plot of $F_{s}$ versus *x* for the mass–spring sy
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig10_HTML.png
 :name: fig-4-10
+:alt: A plot of Fs versus x for the mass-spring system
 
 A plot of $F_{s}$ versus *x* for the mass-spring system
 ```
@@ -424,6 +434,7 @@ W_{s}=\frac{1}{2}kx_{i}^{2}-\frac{1}{2}kx_{f}^{2}=0-\frac{1}{2}(300\,\mathrm {N}
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig11_HTML.png
 :name: fig-4-11
+:alt: A 2 kg block attached to a light spring of force constant 300 N/ m on a horizontal smooth surface
 
 A 2 kg block attached to a light spring of force constant 300 $\mathrm {N}/\mathrm {m}$ on a horizontal smooth surface
 ```
@@ -457,12 +468,14 @@ This result is the same as if the object has followed a straight vertical path. 
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig12_HTML.png
 :name: fig-4-12
+:alt: By taking y=0 at the hand level, in the work done by gravity a is -mgyf and in b is +mgyi
 
 By taking $y=0$ at the hand level, in the work done by gravity **a** is $-mgy_{f}$ and in **b** is $+mgy_{i}$
 ```
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig13_HTML.png
 :name: fig-4-13
+:alt: a The total work done by the spring force on the block is zero since xi=xf. b Along any path the work done by the gravitational force is the same since the initial and final positions are the same
 
 **a** The total work done by the spring force on the block is zero since $x_{i}=x_{f}$. **b** Along any path the work done by the gravitational force is the same since the initial and final positions are the same
 ```
@@ -537,6 +550,7 @@ The force of friction is an example of a nonconservative force. To show that, co
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig14_HTML.png
 :name: fig-4-14
+:alt: The longer the path the more interaction between the block and the surface and the more the force of friction will act and do work on the block
 
 The longer the path the more interaction between the block and the surface and the more the force of friction will act and do work on the block
 ```
@@ -574,6 +588,7 @@ where $U=U(x,\ y,\ z)$. Because only the change in the potential energy is signi
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig15_HTML.png
 :name: fig-4-15
+:alt: The total work done by a conservative force in moving a particle from Pi to Pf
 
 The total work done by a conservative force in moving a particle from $P_{i}$ to $P_{f}$
 ```
@@ -630,6 +645,7 @@ W=\displaystyle \oint _{\mathrm {c}}\mathbf {F}\cdot d\mathbf {r}=\int _{1}\math
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig16_HTML.png
 :name: fig-4-16
+:alt: The work done in moving the particle along a closed path
 
 The work done in moving the particle along a closed path
 ```
@@ -789,6 +805,7 @@ Therefore, the total mechanical energy of the system remains constant under both
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig17_HTML.png
 :name: fig-4-17
+:alt: Changes in the kinetic and potential energies of a ball thrown vertically upwards
 
 Changes in the kinetic and potential energies of a ball thrown vertically upwards
 ```
@@ -937,6 +954,7 @@ A roller coaster of mass 500 kg starts from rest at point $\mathrm {A}$, and rol
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig18_HTML.png
 :name: fig-4-18
+:alt: By ignoring friction, the total energy of the roller coaster can be considered to be conserved
 
 By ignoring friction, the total energy of the roller coaster can be considered to be conserved
 ```
@@ -989,6 +1007,7 @@ A block of mass 5 kg is released from rest at the top of a $45^{\mathrm {o}}$ in
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig19_HTML.png
 :name: fig-4-19
+:alt: A block released from rest on top of an incline
 
 A block released from rest on top of an incline
 ```
@@ -1085,6 +1104,7 @@ Two masses $m_{1}=5$ kg and $m_{2}=9$ kg are connected by a light rope that pass
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig20_HTML.png
 :name: fig-4-20
+:alt: Two masses connected by a light rope that passes over a massless frictionless pulley
 
 Two masses connected by a light rope that passes over a massless frictionless pulley
 ```
@@ -1125,6 +1145,7 @@ A 0.25 kg ball is attached to alight string of length $L=0.5\,\mathrm {m}$ as in
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig21_HTML.png
 :name: fig-4-21
+:alt: A ball attached to a light string
 
 A ball attached to a light string
 ```
@@ -1197,6 +1218,7 @@ A 3 kg block compresses a spring of negligible mass a distance of 0.1 $\mathrm {
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig22_HTML.png
 :name: fig-4-22
+:alt: A 3 kg block compresses a spring of negligible mass a distance of 0.1 m from its equilibrium position
 
 A 3 kg block compresses a spring of negligible mass a distance of 0.1 $\mathrm {m}$ from its equilibrium position
 ```
@@ -1275,6 +1297,7 @@ A small stone of mass 0.1 kg is released from rest inside a large hemispherical 
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig23_HTML.png
 :name: fig-4-23
+:alt: A small stone of mass 0.1 kg is released from rest inside a large hemispherical bowl of radius R=0.2 m
 
 A small stone of mass 0.1 kg is released from rest inside a large hemispherical bowl of radius $R=0.2\mathrm {m}$
 ```
@@ -1363,6 +1386,7 @@ That gives $v=14\,\mathrm {m}/\mathrm {s}.$
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig24_HTML.png
 :name: fig-4-24
+:alt: A skier slides from rest on top of an incline
 
 A skier slides from rest on top of an incline
 ```
@@ -1375,6 +1399,7 @@ A 0.4 kg stone is released from rest at point A where $h_{A}=2\,\mathrm {m}$ (se
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig25_HTML.png
 :name: fig-4-25
+:alt: A 0.4 kg stone is released from rest at point A where hA=2 m
 
 A 0.4 kg stone is released from rest at point A where $h_{A}=2\mathrm {m}$
 ```
@@ -1475,6 +1500,7 @@ On the *U* versus *x* curve, the kinetic energy at any point can be found by sub
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig26_HTML.png
 :name: fig-4-26
+:alt: The potential energy of the system as a function of the particle’s position ( x)
 
 The potential energy of the system as a function of the particle’s position $({ x})$
 ```
@@ -1503,6 +1529,7 @@ If at an equilibrium point $d^{2}U(x)/dx^{2}<0$, then *U*(*x*) is maximum at tha
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig27_HTML.png
 :name: fig-4-27
+:alt: The potential energy of a mass-spring system as a function of x
 
 The potential energy of a mass-spring system as a function of *x*
 ```
@@ -1556,6 +1583,7 @@ Figure [](#fig-4-28) shows the potential energy of a particle as a function of i
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig28_HTML.png
 :name: fig-4-28
+:alt: The potential energy of a particle as a function of its displacement
 
 The potential energy of a particle as a function of its displacement
 ```
@@ -1598,6 +1626,7 @@ Since $\cos (\pm \theta )=\theta$ and $-\cos \theta =\cos \theta$. In Chap. 10, 
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig29_HTML.png
 :name: fig-4-29
+:alt: A force acting on a particle varies with position
 
 A force acting on a particle varies with position
 ```
@@ -1704,48 +1733,56 @@ In Fig. [](#fig-4-37), determine the Turning points and the positions of stable 
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig30_HTML.png
 :name: fig-4-30
+:alt: A block slides down an inclined plane
 
 A block slides down an inclined plane
 ```
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig31_HTML.png
 :name: fig-4-31
+:alt: A block pressed against a light spring and released
 
 A block pressed against a light spring and released
 ```
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig32_HTML.png
 :name: fig-4-32
+:alt: The work done in moving the particle along a closed path
 
 The work done in moving the particle along a closed path
 ```
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig33_HTML.png
 :name: fig-4-33
+:alt: Two blocks connected by a light rope that passes over a massless frictionless pulley
 
 Two blocks connected by a light rope that passes over a massless frictionless pulley
 ```
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig34_HTML.png
 :name: fig-4-34
+:alt: The potential energy versus displacement of a particle
 
 The potential energy versus displacement of a particle
 ```
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig35_HTML.png
 :name: fig-4-35
+:alt: A block of mass m resting on a hemispherical mound of ice
 
 A block of mass *m* resting on a hemispherical mound of ice
 ```
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig36_HTML.png
 :name: fig-4-36
+:alt: A block hanging from a spring
 
 A block hanging from a spring
 ```
 
 ```{figure} ../images/ch-04/459974_1_En_4_Fig37_HTML.png
 :name: fig-4-37
+:alt: The potential energy versus position of a particle
 
 The potential energy versus position of a particle
 ```

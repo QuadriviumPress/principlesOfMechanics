@@ -40,18 +40,21 @@ An important special case of the general plane motion is rolling without slippin
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig1_HTML.png
 :name: fig-8-1
+:alt: A wheel of radius R rolling without slipping along the straight track
 
 A wheel of radius *R* rolling without slipping along the straight track
 ```
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig2_HTML.png
 :name: fig-8-2
+:alt: As the wheel rotates through an angle theta, its center of mass moves through a distance equal to the arc length s
 
 As the wheel rotates through an angle $\theta$, its center of mass moves through a distance equal to the arc length *s*
 ```
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig3_HTML.png
 :name: fig-8-3
+:alt: The combination of pure rotational and translational motions
 
 The combination of pure rotational and translational motions
 ```
@@ -93,6 +96,7 @@ Another way to view rolling without slipping is to consider the wheel to be in p
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig4_HTML.png
 :name: fig-8-4
+:alt: Another way to view rolling without slipping is to consider the wheel to be in pure rotational motion about an instantaneous axis that passes through the point of contact P
 
 Another way to view rolling without slipping is to consider the wheel to be in pure rotational motion about an instantaneous axis that passes through the point of contact $\mathrm {P}$
 ```
@@ -101,6 +105,7 @@ For simplicity, only homogeneous symmetrical objects will be considered here suc
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig5_HTML.png
 :name: fig-8-5
+:alt: A statistical frictional force acts on it at the instantaneous point of contact producing a torque about the center
 
 A statistical frictional force acts on it at the instantaneous point of contact producing a torque about the center
 ```
@@ -109,6 +114,7 @@ In most situations, the body and the surface are not perfectly rigid. As a resul
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig6_HTML.png
 :name: fig-8-6
+:alt: If the body and the surface are not perfectly, the normal force would not be a single force; rather it would be a number of forces that are distributed over the area of contact
 
 If the body and the surface are not perfectly, the normal force would not be a single force; rather it would be a number of forces that are distributed over the area of contact
 ```
@@ -179,6 +185,7 @@ Hence, the speed of the center of mass of any object at the bottom of the inclin
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig7_HTML.png
 :name: fig-8-7
+:alt: A uniform solid cylinder, sphere and hoop roll without slipping from rest at the top of an incline
 
 A uniform solid cylinder, sphere and hoop roll without slipping from rest at the top of an incline
 ```
@@ -248,6 +255,7 @@ Hence, the coefficient of static friction must be at least as great as $\display
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig8_HTML.png
 :name: fig-8-8
+:alt: A marble ball of radius R and mass M rolls without slipping down the incline
 
 A marble ball of radius *R* and mass *M* rolls without slipping down the incline
 ```
@@ -329,6 +337,7 @@ T=\frac{1}{2}Ma_{cm}=\frac{1}{2}M\bigg (\frac{2}{3}g\bigg )=\frac{1}{3}Mg
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig9_HTML.png
 :name: fig-8-9
+:alt: A string wrapped around a uniform solid cylinder of radius of R and mass of M
 
 A string wrapped around a uniform solid cylinder of radius of *R* and mass of *M*
 ```
@@ -415,6 +424,7 @@ a=\frac{g}{(1+7/{5}(M/{m}))}
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig10_HTML.png
 :name: fig-8-10
+:alt: A block of mass m is attached to a light string that passes over a light pulley connected to a uniform solid sphere of radius R and mass M
 
 A block of mass *m* is attached to a light string that passes over a light pulley connected to a uniform solid sphere of radius *R* and mass *M*
 ```
@@ -488,12 +498,14 @@ Since $\varSigma \mathbf {F}=\mathbf {0}$ we have
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig11_HTML.png
 :name: fig-8-11
+:alt: A number of forces F1, F2, F3,.. Fn act on a rigid object at different points
 
 A number of forces $\mathbf {F}_{1},\mathbf {F}_{2},\mathbf {F}_{3},..\mathbf {F}_{n}$ act on a rigid object at different points
 ```
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig12_HTML.png
 :name: fig-8-12
+:alt: The net external torque on the object about O'
 
 The net external torque on the object about $\mathrm{O}'$
 ```
@@ -532,6 +544,7 @@ Therefore, we conclude that if the gravitational field (g) is constant over the 
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig13_HTML.png
 :name: fig-8-13
+:alt: The resultant gravitational force acting on an object is the resultant of the individual gravitational forces acting on different mass elements of the object
 
 The resultant gravitational force acting on an object is the resultant of the individual gravitational forces acting on different mass elements of the object
 ```
@@ -573,12 +586,14 @@ x=0.37 \; \mathrm {m}
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig14_HTML.png
 :name: fig-8-14
+:alt: Two blocks supported by a uniform horizontal beam
 
 Two blocks supported by a uniform horizontal beam
 ```
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig15_HTML.png
 :name: fig-8-15
+:alt: The free-body diagram of a ladder of length L and mass M=20 kg resting against a smooth vertical wall
 
 The free-body diagram of a ladder of length *L* and mass $M=20$ kg resting against a smooth vertical wall
 ```
@@ -744,6 +759,7 @@ F_{1}=\frac{w_{1}}{3}+\frac{w}{2}
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig16_HTML.png
 :name: fig-8-16
+:alt: A uniform beam of weight w and length L balanced by two supports
 
 A uniform beam of weight *w* and length *L* balanced by two supports
 ```
@@ -809,6 +825,7 @@ F_{R}=\sqrt{(147)^{2}+(7812)^{2}}=795 \; \mathrm {N}
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig17_HTML.png
 :name: fig-8-17
+:alt: A man standing at the end of a uniform beam
 
 A man standing at the end of a uniform beam
 ```
@@ -890,6 +907,7 @@ That gives $\theta =16.7^{\circ }$ and $T_{1}=(23.1 \; \mathrm {N})/\sin 16.7^{\
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig18_HTML.png
 :name: fig-8-18
+:alt: A uniform beam held by ropes in static equilibrium
 
 A uniform beam held by ropes in static equilibrium
 ```
@@ -939,6 +957,7 @@ F_{1}=0.65F_{2}=0.65(91.6 \; \mathrm {N})=59.5 \; \mathrm {N}
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig19_HTML.png
 :name: fig-8-19
+:alt: A solid sphere in static equilibrium inside a wedge
 
 A solid sphere in static equilibrium inside a wedge
 ```
@@ -996,24 +1015,28 @@ Three identical uniform blocks each of length *L* are on top of each other as in
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig20_HTML.png
 :name: fig-8-20
+:alt: A block suspended by a cable attached to a uniform rod
 
 A block suspended by a cable attached to a uniform rod
 ```
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig21_HTML.png
 :name: fig-8-21
+:alt: A uniform sphere suspended by a light string and leaning on a frictionless wall
 
 A uniform sphere suspended by a light string and leaning on a frictionless wall
 ```
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig22_HTML.png
 :name: fig-8-22
+:alt: A wheel raised over a step
 
 A wheel raised over a step
 ```
 
 ```{figure} ../images/ch-08/459974_1_En_8_Fig23_HTML.png
 :name: fig-8-23
+:alt: Three identical uniform blocks on top of each other
 
 Three identical uniform blocks on top of each other
 ```

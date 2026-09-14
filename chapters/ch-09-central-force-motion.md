@@ -100,12 +100,14 @@ Thus,
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig1_HTML.png
 :name: fig-9-1
+:alt: The central force
 
 The central force
 ```
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig2_HTML.png
 :name: fig-9-2
+:alt: During an infinitesimally small time interval dt, the radius vector r sweeps out an area equal to dA
 
 During an infinitesimally small time interval *dt*, the radius vector $\mathbf {r}$ sweeps out an area equal to *dA*
 ```
@@ -222,12 +224,14 @@ Consider a particle moving from point $P_{1}$ to $P_{2}$ (see Fig. [](#fig-9-3))
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig3_HTML.png
 :name: fig-9-3
+:alt: A particle moving from point P1 to P2, while a central force that has its center at the origin acts on it
 
 A particle moving from point $P_{1}$ to $P_{2}$, while a central force that has its center at the origin acts on it
 ```
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig4_HTML.png
 :name: fig-9-4
+:alt: The central force is always acting in the direction of the radial segments and is perpendicular to the displacement along any of the curved segments. Therefore, the total work done in moving the particle along any path is equal to the work done along a radial line from ri to rf
 
 The central force is always acting in the direction of the radial segments and is perpendicular to the displacement along any of the curved segments. Therefore, the total work done in moving the particle along any path is equal to the work done along a radial line from $\mathrm {r}_{i}$ to $\mathrm {r}_{f}$
 ```
@@ -310,6 +314,7 @@ Therefore, the gravitational force is a central force since its magnitude is pro
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig5_HTML.png
 :name: fig-9-5
+:alt: Two particles of masses m1 and m2. Each particle exerts a gravitational force on the other
 
 Two particles of masses $m_{1}$ and $m_{2}$. Each particle exerts a gravitational force on the other
 ```
@@ -348,6 +353,7 @@ where $\mathbf {r}_{1}$ is a unit vector directed from the mass element *dM* to 
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig6_HTML.png
 :name: fig-9-6
+:alt: A particle P of mass m interacting with an extended body of mass M
 
 A particle $\mathrm {P}$ of mass *m* interacting with an extended body of mass *M*
 ```
@@ -412,6 +418,7 @@ r_{31}=0.064 \; \mathrm {m}
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig7_HTML.png
 :name: fig-9-7
+:alt: Because F1 and F2 are equal in magnitude, then their y components cancel each other out and their x components add up
 
 Because $\mathbf {F}_{1}$ and $\mathbf {F}_{2}$ are equal in magnitude, then their $\mathrm {y}$ components cancel each other out and their $\mathrm {x}$ components add up
 ```
@@ -510,6 +517,7 @@ Figure [](#fig-9-8) shows the force exerted on a particle as a function of its l
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig8_HTML.png
 :name: fig-9-8
+:alt: The force exerted on a particle as a function of its r
 
 The force exerted on a particle as a function of its $\mathrm {r}$
 ```
@@ -547,6 +555,7 @@ Thus, the solid sphere behaves as a particle of mass *M* located at the center o
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig9_HTML.png
 :name: fig-9-9
+:alt: If a particle of mass m is located inside a uniform solid sphere of mass M, then the gravitational force exerted on the particle is due only to the part of the sphere of radius rR and of mass of M
 
 If a particle of mass *m* is located inside a uniform solid sphere of mass *M*, then the gravitational force exerted on the particle is due only to the part of the sphere of radius $r<R$ and of mass of $\mathrm {M}$
 ```
@@ -591,6 +600,7 @@ Figure [](#fig-9-10) shows the force exerted on a particle as a function of its 
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig10_HTML.png
 :name: fig-9-10
+:alt: The force exerted on a particle as a function of its r
 
 The force exerted on a particle as a function of its $\mathrm {r}$
 ```
@@ -604,6 +614,7 @@ The force exerted on a particle as a function of its $\mathrm {r}$
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig11_HTML.png
 :name: fig-9-11
+:alt: The force exerted on a particle of mass m that is at a distance of a from a thin rod of mass M and length L
 
 The force exerted on a particle of mass *m* that is at a distance of *a* from a thin rod of mass *M* and length *L*
 ```
@@ -655,6 +666,7 @@ Find the gravitational force exerted on a particle of mass *m* that is at a dist
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig12_HTML.png
 :name: fig-9-12
+:alt: The gravitational force exerted on a particle of mass m that is at a distance a from the center of a uniform solid disk of radius R and mass M
 
 The gravitational force exerted on a particle of mass *m* that is at a distance *a* from the center of a uniform solid disk of radius *R* and mass *M*
 ```
@@ -731,6 +743,7 @@ Three concentric spherical shells have masses of $M_{1}, M_{2}$, and $M_{3}$ and
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig13_HTML.png
 :name: fig-9-13
+:alt: Three concentric spherical shells
 
 Three concentric spherical shells
 ```
@@ -968,6 +981,7 @@ That is, the gravitational field at a point is defined as the gravitational forc
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig14_HTML.png
 :name: fig-9-14
+:alt: The gravitational field vectors near the earth’s surface and at large distances from the earth
 
 The gravitational field vectors near the earth’s surface and at large distances from the earth
 ```
@@ -995,6 +1009,7 @@ Since all masses are equal, the net gravitational force at $\mathrm {P}$ is due 
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig15_HTML.png
 :name: fig-9-15
+:alt: Finding the magnitude and direction of the gravitational field at P
 
 Finding the magnitude and direction of the gravitational field at P
 ```
@@ -1006,6 +1021,7 @@ Conic sections are produced if a double right circular cone intersects with a pl
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig16_HTML.png
 :name: fig-9-16
+:alt: A conic section has the property that the ratio e (called the eccentricity) of the distance between any point on the curve (for example point P) and another point called the focus (F) to the distance between P and a line called the directrix is equal to a constant
 
 A conic section has the property that the ratio *e* (called the eccentricity) of the distance between any point on the curve (for example point *P*) and another point called the focus (*F*) to the distance between *P* and a line called the directrix is equal to a constant
 ```
@@ -1065,6 +1081,7 @@ or
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig17_HTML.png
 :name: fig-9-17
+:alt: In an ellipse, at theta =0, r=OV and at theta =pi, r=OV'
 
 In an ellipse, at $\theta =0, r=OV$ and at $\theta =\pi , r=OV'$
 ```
@@ -1117,6 +1134,7 @@ r=\frac{d}{1+\cos \theta }
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig18_HTML.png
 :name: fig-9-18
+:alt: In a parabola, as theta approaches pi, r becomes infinite and hence a infinity
 
 In a parabola, as $\theta$ approaches $\pi , r$ becomes infinite and hence $a\rightarrow \infty$
 ```
@@ -1129,6 +1147,7 @@ r=\frac{a(e^{2}-1)}{1+e\cos \theta }
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig19_HTML.png
 :name: fig-9-19
+:alt: The hyperbola
 
 The hyperbola
 ```
@@ -1236,6 +1255,7 @@ U=U_{12}+U_{13}+U_{23}
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig20_HTML.png
 :name: fig-9-20
+:alt: The gravitational potential energy of a system of three particles
 
 The gravitational potential energy of a system of three particles
 ```
@@ -1350,6 +1370,7 @@ e=\sqrt{1+\frac{2Eh^{2}}{G^{2}M^{2}m}}
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig21_HTML.png
 :name: fig-9-21
+:alt: Different paths
 
 Different paths
 ```
@@ -1370,6 +1391,7 @@ Every planet moves in an elliptical orbit with the sun at one focus as shown in 
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig22_HTML.png
 :name: fig-9-22
+:alt: From the first property of a central force we have r times v= h= constant, where h is a constant vector perpendicular to the x-y plane
 
 From the first property of a central force we have $\mathbf {r}\times \mathbf {v}=\mathbf {h}=$constant, where $\mathbf {h}$ is a constant vector perpendicular to the x-y plane
 ```
@@ -1599,6 +1621,7 @@ Hence the orbit is circular. The potential, kinetic, and total energy as functio
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig23_HTML.png
 :name: fig-9-23
+:alt: The potential, kinetic and total energy as functions of r of an object in a circular orbit
 
 The potential, kinetic and total energy as functions of *r* of an object in a circular orbit
 ```
@@ -1860,6 +1883,7 @@ Two stars of equal mass *M* revolve about their center of mass with a speed *v* 
 
 ```{figure} ../images/ch-09/459974_1_En_9_Fig24_HTML.png
 :name: fig-9-24
+:alt: Two stars of equal mass M revolve about their center of mass with a speed v
 
 Two stars of equal mass *M* revolve about their center of mass with a speed *v*
 ```

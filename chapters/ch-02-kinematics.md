@@ -39,12 +39,14 @@ Hence displacement is a quantity that depends only on the initial and final posi
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig1_HTML.png
 :name: fig-2-1
+:alt: A car that is treated as a particle moving along the straight-line path
 
 A car that is treated as a particle moving along the straight-line path
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig2_HTML.png
 :name: fig-2-2
+:alt: The position time graph of the car's motion
 
 The position time graph of the car's motion
 ```
@@ -77,6 +79,7 @@ Geometrically, the instantaneous velocity of a particle at a particular time on 
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig3_HTML.png
 :name: fig-2-3
+:alt: Geometrically, the instantaneous velocity of a particle at a particular time on the position-time curve is the slope (the tangent) to the position-time curve at that point or instance
 
 Geometrically, the instantaneous velocity of a particle at a particular time on the position-time curve is the slope (the tangent) to the position-time curve at that point or instance
 ```
@@ -103,18 +106,21 @@ The average acceleration is the slope of the line joining the points $\mathrm{P}
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig4_HTML.png
 :name: fig-2-4
+:alt: The average acceleration is the slope of the line joining the points P and Q on the velocity-time graph, whereas the instantaneous acceleration is the slope of the curve at a particular point
 
 The average acceleration is the slope of the line joining the points $\mathrm{P}$ and $\mathrm{Q}$ on the velocity-time graph, whereas the instantaneous acceleration is the slope of the curve at a particular point
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig5_HTML.png
 :name: fig-2-5
+:alt: This figure shows the position, velocity and acceleration as a function of time of a particle moving in one direction. The particle starts from rest, accelerates to a certain speed, is maintained at that speed for some time, then it decelerates back to rest
 
 This figure shows the position, velocity and acceleration as a function of time of a particle moving in one direction. The particle starts from rest, accelerates to a certain speed, is maintained at that speed for some time, then it decelerates back to rest
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig6_HTML.png
 :name: fig-2-6
+:alt: A car moving along the curved path where it is located at xi=3 km at ti=0, and at xf=19 km at tf=0.25 hr
 
 A car moving along the curved path where it is located at $x_{i}=3$ km at $t_{i}=0$, and at $x_{f}=19$ km at $t_{f}=0.25$ hr
 ```
@@ -149,6 +155,7 @@ Its average velocity is
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig7_HTML.png
 :name: fig-2-7
+:alt: A particle moves along the x -axis according to the expression x=2t to the 2
 
 A particle moves along the $\mathrm{x}$-axis according to the expression $x=2t^{2}$
 ```
@@ -229,6 +236,7 @@ v_{d}=\frac{\triangle x}{\triangle t}=\frac{0-(3\,\mathrm{m})}{(8.5\,\mathrm{s})
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig8_HTML.png
 :name: fig-2-8
+:alt: The position-time graph of a particle moving along the x-axis
 
 The position-time graph of a particle moving along the x-axis
 ```
@@ -282,6 +290,7 @@ Consider the particle moving from point $\mathrm{P}$ to point $\mathrm{Q}$ along
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig9_HTML.png
 :name: fig-2-9
+:alt: A particle moving from point P to point Q along a path or curve C during a time interval t=tf-ti
 
 A particle moving from point $\mathrm{P}$ to point $\mathrm{Q}$ along a path or curve $\mathrm{C}$ during a time interval $\triangle t=t_{f}-t_{i}$
 ```
@@ -318,6 +327,7 @@ The magnitude of the instantaneous velocity is
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig10_HTML.png
 :name: fig-2-10
+:alt: The instantaneous velocity vectors along the path
 
 The instantaneous velocity vectors along the path
 ```
@@ -349,6 +359,7 @@ The acceleration describes the change in both the magnitude and direction of the
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig11_HTML.png
 :name: fig-2-11
+:alt: If v is changed in magnitude only (motion along a straight line) then a is parallel to v if v is increasing, and antiparallel if v is decreasing. If v is changed in direction only (motion along a curved path with constant speed) then a is always perpendicular to v at any point
 
 If $\mathbf{v}$ is changed in magnitude only (motion along a straight line) then $\mathbf{a}$ is parallel to $\mathbf{v}$ if $\mathbf{v}$ is increasing, and antiparallel if $\mathbf{v}$ is decreasing. If $\mathbf{v}$ is changed in direction only (motion along a curved path with constant speed) then $\mathbf{a}$ is always perpendicular to $\mathbf{v}$ at any point
 ```
@@ -365,24 +376,28 @@ In terms of unit vectors, let $\mathbf{T}$ be the unit vector along the tangent 
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig12_HTML.png
 :name: fig-2-12
+:alt: If v is changed in both magnitude and direction then a will be directed at some angle to v
 
 If $\mathbf{v}$ is changed in both magnitude and direction then $\mathbf{a}$ will be directed at some angle to $\mathbf{v}$
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig13_HTML.png
 :name: fig-2-13
+:alt: The parallel (or tangential) component of the acceleration is always tangent to the path while the perpendicular (or normal) component is normal to the path at each point
 
 The parallel (or tangential) component of the acceleration is always tangent to the path while the perpendicular (or normal) component is normal to the path at each point
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig14_HTML.png
 :name: fig-2-14
+:alt: At A the acceleration of a car is in the same direction of the velocity since the latter changes only in magnitude. As it moves its velocity is changed in both magnitude and direction. Therefore at B the direction of the acceleration is at some angle to the velocity. At C the speed reaches a maxi...
 
 At $\mathrm{A}$ the acceleration of a car is in the same direction of the velocity since the latter changes only in magnitude. As it moves its velocity is changed in both magnitude and direction. Therefore at $\mathrm{B}$ the direction of the acceleration is at some angle to the velocity. At $\mathrm{C}$ the speed reaches a maximum and therefore the instantaneous change of speed is zero at this point and the acceleration has only a perpendicular component. As the car moves up its velocity decreases and changes in direction also, thus the acceleration has both parallel and perpendicular components. Finally at $\mathrm{E}$, the acceleration is in the opposite direction of the velocity since the velocity is decreasing but its direction is the same
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig15_HTML.png
 :name: fig-2-15
+:alt: The TNB frame moves with the particle
 
 The TNB frame moves with the particle
 ```
@@ -487,6 +502,7 @@ A car moves with constant tangential acceleration down a ramp as shown in [](#fi
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig16_HTML.png
 :name: fig-2-16
+:alt: A car moving with a constant tangential acceleration down a ramp
 
 A car moving with a constant tangential acceleration down a ramp
 ```
@@ -589,6 +605,7 @@ Equations [](#eq-2-4), [](#eq-2-5), [](#eq-2-6), and [](#eq-2-7) are called the 
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig17_HTML.png
 :name: fig-2-17
+:alt: The motion graphs for an object moving with constant acceleration in the positive x -direction
 
 The motion graphs for an object moving with constant acceleration in the positive $\mathrm{x}$-direction
 ```
@@ -748,12 +765,14 @@ The displacement and velocity graphs are shown in [](#fig-2-18). Note that it do
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig18_HTML.png
 :name: fig-2-18
+:alt: The displacement and velocity graph for a free-falling object
 
 The displacement and velocity graph for a free-falling object
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig19_HTML.png
 :name: fig-2-19
+:alt: The important features of a free falling object that is dropped from rest
 
 The important features of a free falling object that is dropped from rest
 ```
@@ -1002,6 +1021,7 @@ If the motion of a particle in a plane is described by $v_{y}=(-8t)\,\mathrm{m}/
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig20_HTML.png
 :name: fig-2-20
+:alt: The y component of the particle as a function of time
 
 The $\mathrm{y}$ component of the particle as a function of time
 ```
@@ -1084,6 +1104,7 @@ Projectile motion is the motion of an object thrown (projected) into the air at 
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig21_HTML.png
 :name: fig-2-21
+:alt: The projectile motion
 
 The projectile motion
 ```
@@ -1176,6 +1197,7 @@ R=\frac{v_{0}^{2}\sin 2\theta _{0}}{g}
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig22_HTML.png
 :name: fig-2-22
+:alt: The maximum height of a projectile
 
 The maximum height of a projectile
 ```
@@ -1287,6 +1309,7 @@ a_{rad}=\frac{4\pi ^{2}r}{T^{2}}
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig23_HTML.png
 :name: fig-2-23
+:alt: The directions of y and a change continuously with time but their magnitudes are constant
 
 The directions of $\mathrm{y}$ and a change continuously with time but their magnitudes are constant
 ```
@@ -1332,6 +1355,7 @@ In Chap. [](#ch-8), the concepts of angular velocity and acceleration and their 
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig24_HTML.png
 :name: fig-2-24
+:alt: The velocity and total acceleration vectors of a particle moving in a circular path with increasing speed (clockwise) until it reaches the maximum speed at the bottom, and then slows down as it goes back up. An example of this motion is in a roller coaster ride in a vertical circle
 
 The velocity and total acceleration vectors of a particle moving in a circular path with increasing speed (clockwise) until it reaches the maximum speed at the bottom, and then slows down as it goes back up. An example of this motion is in a roller coaster ride in a vertical circle
 ```
@@ -1413,12 +1437,14 @@ Equations [](#eq-2-19) and [](#eq-2-20) are called the Galilean transformation e
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig25_HTML.png
 :name: fig-2-25
+:alt: Observer S is stationary relative to the ground, and observer S' is moving in the positive x -direction with a constant velocity relative to the ground
 
 Observer $\mathrm{S}$ is stationary relative to the ground, and observer $\mathrm{S}'$ is moving in the positive $\mathrm{x}$-direction with a constant velocity relative to the ground
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig26_HTML.png
 :name: fig-2-26
+:alt: The velocity of S' with respect to S(vS'S) is constant in both magnitude and direction
 
 The velocity of $\mathrm{S}'$ with respect to $\mathrm{S}(v_{S'S})$ is constant in both magnitude and direction
 ```
@@ -1431,12 +1457,14 @@ Two motor cyclists $\mathrm{A}$ and $\mathrm{B}$ are driving along the same road
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig27_HTML.png
 :name: fig-2-27
+:alt: Two motor cyclists A and B driving with speeds 90 km/h and 50 km/s respectively
 
 Two motor cyclists $\mathrm{A}$ and $\mathrm{B}$ driving with speeds 90 $\mathrm{km}/\mathrm{h}$ and 50 $\mathrm{km}/\mathrm{s}$ respectively
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig28_HTML.png
 :name: fig-2-28
+:alt: A is moving at 80 km/s, and B moving at 60 km/s
 
 A is moving at 80 $\mathrm{km}/\mathrm{s}$, and $\mathrm{B}$ moving at 60 $\mathrm{km}/\mathrm{s}$
 ```
@@ -1507,12 +1535,14 @@ The direction of $\mathbf{v}_{bE}$ is
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig29_HTML.png
 :name: fig-2-29
+:alt: A boat is traveling at 8 km/h north relative to the sea’s waves, and the waves are traveling northeast relative to the earth at a constant speed of 4 km/h
 
 A boat is traveling at 8 $\mathrm{km}/\mathrm{h}$ north relative to the sea’s waves, and the waves are traveling northeast relative to the earth at a constant speed of 4 $\mathrm{km}/\mathrm{h}$
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig30_HTML.png
 :name: fig-2-30
+:alt: r1 is a unit vector along the increasing r direction and theta 1 is a unit vector in the direction of increasing theta (anticlockwise direction)
 
 $\mathrm{r}_{1}$ is a unit vector along the increasing r direction and $\theta _{1}$ is a unit vector in the direction of increasing $\theta$ (anticlockwise direction)
 ```
@@ -1580,6 +1610,7 @@ We may write
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig31_HTML.png
 :name: fig-2-31
+:alt: Unlike the rectangular unit vectors, the polar unit vectors are not fixed in direction. Their direction changes as the particle moves along some path
 
 Unlike the rectangular unit vectors, the polar unit vectors are not fixed in direction. Their direction changes as the particle moves along some path
 ```
@@ -1666,12 +1697,14 @@ a=\sqrt{a_{r}^{2}+a_{\theta }^{2}}=\sqrt{(-2.35\,\mathrm{m}/\mathrm{s}^{2})^{2}+
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig32_HTML.png
 :name: fig-2-32
+:alt: An object moving in one dimension along the x -axis
 
 An object moving in one dimension along the $\mathrm{x}$-axis
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig33_HTML.png
 :name: fig-2-33
+:alt: The position-time graph of a particle moving along the x -axis
 
 The position-time graph of a particle moving along the $\mathrm{x}$-axis
 ```
@@ -1757,18 +1790,21 @@ An aircraft is tracked by a radar (see [](#fig-2-36)). If at a certain instant t
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig34_HTML.png
 :name: fig-2-34
+:alt: The speed of a motorcyclist varying with time
 
 The speed of a motorcyclist varying with time
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig35_HTML.png
 :name: fig-2-35
+:alt: A car moves at a constant speed of 40 km/h along curved path
 
 A car moves at a constant speed of 40 $\mathrm{km}/\mathrm{h}$ along curved path
 ```
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig36_HTML.png
 :name: fig-2-36
+:alt: An aircraft tracked by a radar coordinates
 
 An aircraft tracked by a radar coordinates
 ```

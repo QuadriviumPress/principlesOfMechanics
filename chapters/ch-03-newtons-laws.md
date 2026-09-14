@@ -76,6 +76,7 @@ To apply classical (Newtonian) mechanics with respect to a noninertial reference
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig1_HTML.png
 :name: fig-3-1
+:alt: The boy is throwing the water out by pitching the bucket forward. If he stops, the water will continue its motion along a straight line. However, because of the force of gravity, it follows a parabolic path
 
 The boy is throwing the water out by pitching the bucket forward. If he stops, the water will continue its motion along a straight line. However, because of the force of gravity, it follows a parabolic path
 ```
@@ -154,6 +155,7 @@ A body is exposed to three forces acting in different directions as shown in [](
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig2_HTML.png
 :name: fig-3-2
+:alt: A body is exposed to three forces acting in different directions
 
 A body is exposed to three forces acting in different directions
 ```
@@ -353,6 +355,7 @@ The normal force is $\mathrm {n}=\mathrm {m}(\mathrm {a}+\mathrm {g})$ for upwar
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig3_HTML.png
 :name: fig-3-3
+:alt: A man weighing himself in an elevator
 
 A man weighing himself in an elevator
 ```
@@ -369,6 +372,7 @@ Any of these forces can be called an action force. When one of these forces is c
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig4_HTML.png
 :name: fig-3-4
+:alt: The gravitational force exerted by the Earth on the apple and that exerted by the apple to the Earth form an action-reaction pair
 
 The gravitational force exerted by the Earth on the apple and that exerted by the apple to the Earth form an action-reaction pair
 ```
@@ -407,6 +411,7 @@ F_{32}=\frac{m_{3}F}{(m_{1}+m_{2}+m_{3})}
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig5_HTML.png
 :name: fig-3-5
+:alt: Three blocks of masses m1, m2, and m3 are placed on a frictionless surface and pushed by a horizontal force F
 
 Three blocks of masses $m_{1}, m_{2}$, and $m_{3}$ are placed on a frictionless surface and pushed by a horizontal force *F*
 ```
@@ -443,6 +448,7 @@ Consider a block resting on a table. If the block is pushed with a horizontal fo
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig6_HTML.png
 :name: fig-3-6
+:alt: The opposing force is known as the statistical frictional force fs and it has the value fs=F. Its maximum value fs =F represents the applied force when the block is at the verge of slipping i.e. it is the minimum force necessary to initiate motion. When the block moves, the retarding frictional f...
 
 The opposing force is known as the statistical frictional force $\mathbf {f}_{s}$ and it has the value $f_{s}=F$. Its maximum value $f_{s\max }=F$ represents the applied force when the block is at the verge of slipping i.e. it is the minimum force necessary to initiate motion. When the block moves, the retarding frictional force is then called the kinetic frictional force $\mathbf {f}_{k}$
 ```
@@ -451,6 +457,7 @@ However, if $\mathrm {F}$ is increased to a certain maximum value, the block wil
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig7_HTML.png
 :name: fig-3-7
+:alt: A graph of the friction force versus the applied force
 
 A graph of the friction force versus the applied force
 ```
@@ -474,6 +481,7 @@ The dimensionless coefficients $\mu _{s}$ and $\mu _{k}$ depend on the nature of
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig8_HTML.png
 :name: fig-3-8
+:alt: The actual area of contact viewed from a microscopic level is much less than the area of contact viewed from a macroscopic level
 
 The actual area of contact viewed from a microscopic level is much less than the area of contact viewed from a macroscopic level
 ```
@@ -492,6 +500,7 @@ where $\rho$ is the air density, *A* is the effective cross-sectional area of th
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig9_HTML.png
 :name: fig-3-9
+:alt: An object falling through air experiences a drag force D and a gravitational force m g
 
 An object falling through air experiences a drag force $\mathbf {D}$ and a gravitational force $m\mathbf {g}$
 ```
@@ -537,6 +546,7 @@ A 25 kg block is released from rest at the top of a rough $40^{\mathrm {o}}$ inc
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig10_HTML.png
 :name: fig-3-10
+:alt: The free-body diagram of a block accelerating down an incline
 
 The free-body diagram of a block accelerating down an incline
 ```
@@ -641,6 +651,7 @@ T=\bigg (\frac{2m_{1}m_{2}}{m_{1}+m_{2}}\bigg )g=\left( \frac{2(10\,\mathrm {k}\
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig11_HTML.png
 :name: fig-3-11
+:alt: The free-body diagram of an Atwoodõs machine
 
 The free-body diagram of an Atwoodõs machine
 ```
@@ -653,6 +664,7 @@ Two blocks of masses $m_{1}=1.5$ kg and $m_{2}=3.2$ kg are connected by a light 
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig12_HTML.png
 :name: fig-3-12
+:alt: The free-body diagram showing the forces on each block
 
 The free-body diagram showing the forces on each block
 ```
@@ -740,12 +752,14 @@ A 3 kg block is hanged from the ceiling as in Fig. [](#fig-3-13). Find the magni
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig13_HTML.png
 :name: fig-3-13
+:alt: A block hanged from the ceiling
 
 A block hanged from the ceiling
 ```
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig14_HTML.png
 :name: fig-3-14
+:alt: The free-body diagram of the block
 
 The free-body diagram of the block
 ```
@@ -810,6 +824,7 @@ T_{1}=F=100\,\mathrm {N}
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig15_HTML.png
 :name: fig-3-15
+:alt: Using two pulleys to reduce the force necessary to lift a weight
 
 Using two pulleys to reduce the force necessary to lift a weight
 ```
@@ -834,6 +849,7 @@ If at some instant the radial force becomes zero, the object would then move alo
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig16_HTML.png
 :name: fig-3-16
+:alt: An object attached to a string in uniform circular motion
 
 An object attached to a string in uniform circular motion
 ```
@@ -846,6 +862,7 @@ A conical pendulum consists of a bob of mass *m* attached to a light string rota
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig17_HTML.png
 :name: fig-3-17
+:alt: A conical pendulum consisting of a bob of mass m attached to a light string rotating in a horizontal circle
 
 A conical pendulum consisting of a bob of mass *m* attached to a light string rotating in a horizontal circle
 ```
@@ -899,12 +916,14 @@ Since $R=L\sin \theta$, we have
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig18_HTML.png
 :name: fig-3-18
+:alt: A car turning without skidding
 
 A car turning without skidding
 ```
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig19_HTML.png
 :name: fig-3-19
+:alt: A car turning on a banked road
 
 A car turning on a banked road
 ```
@@ -986,6 +1005,7 @@ The net force is
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig20_HTML.png
 :name: fig-3-20
+:alt: The radial and tangential forces in nonuniform circular motion
 
 The radial and tangential forces in nonuniform circular motion
 ```
@@ -998,6 +1018,7 @@ An object attached to a light string is rotating in a vertical circle of radius 
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig21_HTML.png
 :name: fig-3-21
+:alt: An object attached to a string rotating in a vertical circle
 
 An object attached to a string rotating in a vertical circle
 ```
@@ -1035,36 +1056,42 @@ T_{t}=m\bigg (\frac{v_{t}^{2}}{r}-g\bigg )
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig22_HTML.png
 :name: fig-3-22
+:alt: An object subjected to two forces acting in different directions
 
 An object subjected to two forces acting in different directions
 ```
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig23_HTML.png
 :name: fig-3-23
+:alt: A block released from the top of an incline
 
 A block released from the top of an incline
 ```
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig24_HTML.png
 :name: fig-3-24
+:alt: Two masses connected by a light string over a frictionless pulley of negligible mass
 
 Two masses connected by a light string over a frictionless pulley of negligible mass
 ```
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig25_HTML.png
 :name: fig-3-25
+:alt: A block hanged from the ceiling
 
 A block hanged from the ceiling
 ```
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig26_HTML.png
 :name: fig-3-26
+:alt: A block held in equilibrium
 
 A block held in equilibrium
 ```
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig27_HTML.png
 :name: fig-3-27
+:alt: Two blocks connected by a light rope and pulled by a force
 
 Two blocks connected by a light rope and pulled by a force
 ```
@@ -1157,18 +1184,21 @@ A l kg particle moves in the force field given by $\mathbf {F}=2t\mathbf {i}+(5t
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig28_HTML.png
 :name: fig-3-28
+:alt: Two blocks placed on top of each other, where a horizontal force is applied to the lower block
 
 Two blocks placed on top of each other, where a horizontal force is applied to the lower block
 ```
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig29_HTML.png
 :name: fig-3-29
+:alt: A car moving on a curved path
 
 A car moving on a curved path
 ```
 
 ```{figure} ../images/ch-03/459974_1_En_3_Fig30_HTML.png
 :name: fig-3-30
+:alt: A block of mass m on a frictionless table is attached to light string that passes through the center of the table and is connected to a larger block of mass M
 
 A block of mass *m* on a frictionless table is attached to light string that passes through the center of the table and is connected to a larger block of mass *M*
 ```

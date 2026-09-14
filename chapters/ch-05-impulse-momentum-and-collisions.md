@@ -57,6 +57,7 @@ Differentiating Eq. [](#eq-5-1) with respect to time and by using Newton’s sec
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig1_HTML.png
 :name: fig-5-1
+:alt: An isolated system consisting of two particles where the only forces that act in the system are internal forces
 
 An isolated system consisting of two particles where the only forces that act in the system are internal forces
 ```
@@ -126,6 +127,7 @@ That is, $\overline{\mathbf{F}}$ is a constant force that gives the same impulse
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig2_HTML.png
 :name: fig-5-2
+:alt: One example of the variation of F over time
 
 One example of the variation of $\mathrm{F}$ over time
 ```
@@ -211,6 +213,7 @@ A hockey puck of mass 0.16 kg traveling on a smooth ice surface collides with th
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig3_HTML.png
 :name: fig-5-3
+:alt: A hockey player changing the momentum of the puck
 
 A hockey player changing the momentum of the puck
 ```
@@ -355,6 +358,7 @@ An inelastic collision is one in which the total kinetic energy of the two-colli
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig4_HTML.png
 :name: fig-5-4
+:alt: Two particles of masses m1 and m2 experiencing an elastic head-on collision
 
 Two particles of masses $m_{1}$ and $m_{2}$ experiencing an elastic head-on collision
 ```
@@ -407,6 +411,7 @@ In that case $m_{2}$ is called the target and $m_{1}$ is called the projectile. 
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig5_HTML.png
 :name: fig-5-5
+:alt: A one dimensional (head-on) perfectly inelastic collision between two particles of mass m1 and m2
 
 A one dimensional (head-on) perfectly inelastic collision between two particles of mass $m_{1}$ and $m_{2}$
 ```
@@ -467,6 +472,7 @@ The ballistic pendulum consists of a large wooden block suspended by a light wir
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig6_HTML.png
 :name: fig-5-6
+:alt: The ballistic pendulum consists of a large wooden block suspended by a light wire
 
 The ballistic pendulum consists of a large wooden block suspended by a light wire
 ```
@@ -559,6 +565,7 @@ Two blocks $m_{1}=2$ kg and $m_{2}=1$ kg collide head-on with each other on a fr
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig7_HTML.png
 :name: fig-5-7
+:alt: Two blocks colliding head-on on a frictionless surface
 
 Two blocks colliding head-on on a frictionless surface
 ```
@@ -693,6 +700,7 @@ Therefore, we have three equations and seven unknown quantities. By knowing any 
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig8_HTML.png
 :name: fig-5-8
+:alt: A two dimensional elastic collision between two particles where one particle is moving and the other is at rest
 
 A two dimensional elastic collision between two particles where one particle is moving and the other is at rest
 ```
@@ -707,6 +715,7 @@ A ball of mass of 2 kg is sliding along a horizontal frictionless surface at a s
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig9_HTML.png
 :name: fig-5-9
+:alt: A ball sliding along a horizontal frictionless surface collides with a second ball that is initially at rest
 
 A ball sliding along a horizontal frictionless surface collides with a second ball that is initially at rest
 ```
@@ -847,6 +856,7 @@ This is satisfied only if $\theta _{1}+\theta _{2}=90^{\mathrm {o}}$.
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig10_HTML.png
 :name: fig-5-10
+:alt: A 1200 kg car traveling east at a speed of 18 collides with another car of mass of 2500 kg that is traveling north at a speed of 23
 
 A 1200 kg car traveling east at a speed of 18 collides with another car of mass of 2500 kg that is traveling north at a speed of 23
 ```
@@ -953,12 +963,14 @@ where $d=r\sin \phi$ is called the moment arm of $\mathrm {F}$ where it represen
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig11_HTML.png
 :name: fig-5-11
+:alt: A particle in the x-y plane exposed to a force that lies in that plane. The resulting torque is then perpendicular to the x-y plane parallel to the -axis
 
 A particle in the x-y plane exposed to a force that lies in that plane. The resulting torque is then perpendicular to the x-y plane parallel to the -axis
 ```
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig12_HTML.png
 :name: fig-5-12
+:alt: is called the moment arm of and it represents the perpendicular distance from the axis of rotation to the line of action of
 
 is called the moment arm of and it represents the perpendicular distance from the axis of rotation to the line of action of
 ```
@@ -1015,6 +1027,7 @@ where $\phi$ is the smaller angle between $\mathbf {r}$ and $\mathbf {p}$. This 
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig13_HTML.png
 :name: fig-5-13
+:alt: If the particle is moving in the x-y plane, then the direction of is perpendicular to the plane containing and and is found by the right-hand rule
 
 If the particle is moving in the x-y plane, then the direction of is perpendicular to the plane containing and and is found by the right-hand rule
 ```
@@ -1093,6 +1106,7 @@ Suppose the plane is the x–y plane. Since $v=at$, we have
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig14_HTML.png
 :name: fig-5-14
+:alt: A cat watching a mouse run by
 
 A cat watching a mouse run by
 ```
@@ -1119,6 +1133,7 @@ A 0.2 kg particle is moving in the x–y plane. If at a certain instant $r=3\,\m
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig15_HTML.png
 :name: fig-5-15
+:alt: A particle moving in the x-y plane
 
 A particle moving in the x-y plane
 ```
@@ -1299,42 +1314,49 @@ A conical pendulum of mass *m* and length *L* is in uniform circular motion with
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig16_HTML.png
 :name: fig-5-16
+:alt: A force acting on a particle varies with time
 
 A force acting on a particle varies with time
 ```
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig17_HTML.png
 :name: fig-5-17
+:alt: A boy jumps on a cart that is initially at rest
 
 A boy jumps on a cart that is initially at rest
 ```
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig18_HTML.png
 :name: fig-5-18
+:alt: A ball bouncing off a smooth surface
 
 A ball bouncing off a smooth surface
 ```
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig19_HTML.png
 :name: fig-5-19
+:alt: Two gliders moving on a frictionless linear air track experience a perfectly elastic collision
 
 Two gliders moving on a frictionless linear air track experience a perfectly elastic collision
 ```
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig20_HTML.png
 :name: fig-5-20
+:alt: A bullet of mass of m is fired with a horizontal velocity v into a block of mass M
 
 A bullet of mass of m is fired with a horizontal velocity v into a block of mass M
 ```
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig21_HTML.png
 :name: fig-5-21
+:alt: A block moving along the y-axis subject to a force
 
 A block moving along the y-axis subject to a force
 ```
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig22_HTML.png
 :name: fig-5-22
+:alt: A conical pendulum of mass m and length L is in uniform circular motion with a velocity v
 
 A conical pendulum of mass m and length L is in uniform circular motion with a velocity v
 ```
